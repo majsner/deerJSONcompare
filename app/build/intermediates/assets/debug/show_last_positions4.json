@@ -1,0 +1,71 @@
+{
+   "12110":[
+      {
+         "specie_name":"Jelen Evropsk\u00fd",
+         "name":"Barka",
+         "color":"00FFFF",
+         "id_deer":12110,
+         "UTC_DATE":"21.01.2014",
+         "UTC_TIME":"22:00:44",
+         "LMT_TIME":"23:00:44",
+         "TEMP":7,
+         "LATITUDE":"50,303611",
+         "LONGITUDE":"13,0705745",
+         "RowNum":"1"
+      },
+      {
+         "specie_name":"Jelen Evropsk\u00fd",
+         "name":"Barka",
+         "color":"00FFFF",
+         "id_deer":12110,
+         "UTC_DATE":"21.01.2014",
+         "UTC_TIME":"18:00:44",
+         "LMT_TIME":"19:00:44",
+         "TEMP":7,
+         "LATITUDE":"50,3059398",
+         "LONGITUDE":"13,0721268",
+         "RowNum":"3"
+      }
+   ],
+   "12268":[
+      {
+         "specie_name":"Jelen Evropsk\u00fd",
+         "name":"Bonif\u00e1c",
+         "color":"7fffd4",
+         "id_deer":12268,
+         "UTC_DATE":"21.01.2014",
+         "UTC_TIME":"22:00:43",
+         "LMT_TIME":"23:00:43",
+         "TEMP":7,
+         "LATITUDE":"50,6010005",
+         "LONGITUDE":"13,3487443",
+         "RowNum":"1"
+      },
+      {
+         "specie_name":"Jelen Evropsk\u00fd",
+         "name":"Bonif\u00e1c",
+         "color":"7fffd4",
+         "id_deer":12268,
+         "UTC_DATE":"21.01.2014",
+         "UTC_TIME":"20:00:44",
+         "LMT_TIME":"21:00:44",
+         "TEMP":6,
+         "LATITUDE":"50,601014",
+         "LONGITUDE":"13,3487509",
+         "RowNum":"2"
+      },
+      {
+         "specie_name":"Jelen Evropsk\u00fd",
+         "name":"Bonif\u00e1c",
+         "color":"7fffd4",
+         "id_deer":12268,
+         "UTC_DATE":"26.11.2013",
+         "UTC_TIME":"6:01:02",
+         "LMT_TIME":"7:01:02",
+         "TEMP":5,
+         "LATITUDE":"50,5984237",
+         "LONGITUDE":"13,3490061",
+         "RowNum":"572"
+      }
+   ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jan/Android/_archiv/deerJSONcompare/app/libs/jackson-core-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e19d8381e01aa64c9dd47ff453e39abc441775c">
+        <dex dex="/Users/jan/Android/_archiv/deerJSONcompare/app/build/intermediates/pre-dexed/debug/jackson-core-2.3.0-5659d5f1a98c9bc305593f5018a7b7aa1dcd3598.jar" />
+    </item>
+    <item
+        jar="/Users/jan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/jan/Android/_archiv/deerJSONcompare/app/build/intermediates/pre-dexed/debug/gson-2.2.4-2e0091be593f38e5e38aee0f9c5e51482fe9ca53.jar" />
+    </item>
+    <item
+        jar="/Users/jan/Android/_archiv/deerJSONcompare/app/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/jan/Android/_archiv/deerJSONcompare/app/build/intermediates/pre-dexed/debug/json_simple-1.1-beddbb7e953ef156812e054819dfa36df84a3f2e.jar" />
+    </item>
+    <item
+        jar="/Users/jan/Android/_archiv/deerJSONcompare/app/libs/json-smart-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f0d87a94a114eaf3f9bca06a2cc2db31cb669b7e">
+        <dex dex="/Users/jan/Android/_archiv/deerJSONcompare/app/build/intermediates/pre-dexed/debug/json-smart-1.1.1-724229f8ed42d09d1a8a3adafa8e06c8b87f2559.jar" />
+    </item>
+
+</items>
